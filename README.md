@@ -3,7 +3,7 @@
 
 ## Issues and Workarounds
 
-### ISerializationCallbackReceiver.OnBeforeSerialize Inoked repiatedly
+### ISerializationCallbackReceiver.OnBeforeSerialize Inoked repeatedly
 The technique that we use to hook into unity's serialization process is utilizing **UnityEngine.ISerializationCallbackReceiver.OnBeforeSerialize** callback.
 
 #### Issue
